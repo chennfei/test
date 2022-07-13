@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3a2abd5-35fd-4da0-8b51-7f98241019c6" name="Default Changelist" comment="Default Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run2.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/cases/test.py" />
+        <option value="$PROJECT_DIR$/cases/mainPage_001_enter_mall.py" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-64" />
+    <option name="y" value="14" />
+    <option name="width" value="1936" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectId" id="1yCZgyrdZM1Z771rAfw12J6IG6u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="测试代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="测试代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="测试代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="测试代码" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="测试代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="测试代码" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\hzdl\课件\持续集成与DevOps\示例代码\测试代码\common" />
+      <recent name="D:\Work\hzdl\课件\持续集成\测试代码\venv\Lib\site-packages" />
+      <recent name="D:\Work\hzdl\课件\持续集成\测试代码" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\hzdl\课件\持续集成\测试代码\venv\Lib\site-packages" />
+      <recent name="D:\Work\hzdl\课件\持续集成\测试代码\venv\Lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="测试代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="测试代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Work\hzdl\课件\持续集成\测试代码\run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case.mainPage_001_enter_mall 的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="测试代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case.mainPage_001_enter_mall&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case.test_001 的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="测试代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case.test_001&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case.test_001.Test 的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="测试代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case.test_001.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python 测试.case.test_001.Test 的 Unittest" />
+        <item itemvalue="Python 测试.case.test_001 的 Unittest" />
+        <item itemvalue="Python 测试.case.mainPage_001_enter_mall 的 Unittest" />
+        <item itemvalue="Python.run2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\LiJie\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3a2abd5-35fd-4da0-8b51-7f98241019c6" name="Default Changelist" comment="" />
+      <created>1619688881507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619688881507</updated>
+      <workItem from="1619688884189" duration="932000" />
+      <workItem from="1619689876151" duration="211000" />
+      <workItem from="1619748698905" duration="10730000" />
+      <workItem from="1620626473879" duration="5255000" />
+      <workItem from="1620635612682" duration="609000" />
+      <workItem from="1620697590356" duration="2392000" />
+      <workItem from="1620789093577" duration="1221000" />
+      <workItem from="1620980416397" duration="1433000" />
+      <workItem from="1621215594728" duration="1921000" />
+      <workItem from="1621407681129" duration="596000" />
+      <workItem from="1621498472801" duration="651000" />
+      <workItem from="1622687074967" duration="5077000" />
+      <workItem from="1622773046525" duration="99000" />
+      <workItem from="1622774880515" duration="804000" />
+      <workItem from="1622785135692" duration="788000" />
+      <workItem from="1623032141694" duration="1840000" />
+      <workItem from="1623046582783" duration="4850000" />
+      <workItem from="1623724824068" duration="125000" />
+      <workItem from="1623726520285" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="edit run.py">
+      <created>1619763147825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619763147825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add htmltestrunner">
+      <created>1619764836245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619764836245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit test case to fail">
+      <created>1619768499804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619768499804</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit chrome options">
+      <created>1619771210329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619771210329</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit chrome options options.add_argument('--disable-dev-shm-usage')">
+      <created>1619772984891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619772984891</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit chrome options options.add_argument('--disable-dev-shm-usage')">
+      <created>1619774159897</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619774159897</updated>
+    </task>
+    <task id="LOCAL-00007" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1619774507533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619774507533</updated>
+    </task>
+    <task id="LOCAL-00008" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1620629032211</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620629032211</updated>
+    </task>
+    <task id="LOCAL-00009" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1620629263333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620629263333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1622690623008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622690623008</updated>
+    </task>
+    <task id="LOCAL-00011" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623046045966</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1623046045966</updated>
+    </task>
+    <task id="LOCAL-00012" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623046186013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623046186013</updated>
+    </task>
+    <task id="LOCAL-00013" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623046706161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623046706161</updated>
+    </task>
+    <task id="LOCAL-00014" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623046799934</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623046799934</updated>
+    </task>
+    <task id="LOCAL-00015" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623046847141</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623046847141</updated>
+    </task>
+    <task id="LOCAL-00016" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623048914981</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1623048914981</updated>
+    </task>
+    <task id="LOCAL-00017" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623051983333</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1623051983333</updated>
+    </task>
+    <task id="LOCAL-00018" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623052155915</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1623052155916</updated>
+    </task>
+    <task id="LOCAL-00019" summary="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu">
+      <created>1623052340171</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1623052340171</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Default Changelist">
+      <created>1631761641888</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1631761641888</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.04.30 at 15h 37m 41s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall_test - 2021.04.30 at 15h 40m 09s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.04.30 at 16h 45m 16s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall_test - 2021.04.30 at 16h 46m 20s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.04.30 at 17h 04m 43s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.05.10 at 14h 40m 12s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.06.07 at 13h 54m 21s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.06.07 at 13h 54m 44s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.06.07 at 14h 56m 32s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_mainPage_001_enter_mall_MainPage_001_enter_mall - 2021.06.15 at 11h 09m 06s.xml">
+      <configuration name="Unittests for mainPage_001_enter_mall.MainPage_001_enter_mall" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39573000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16452305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="edit run.py" />
+    <MESSAGE value="add htmltestrunner" />
+    <MESSAGE value="edit test case to fail" />
+    <MESSAGE value="edit chrome options" />
+    <MESSAGE value="edit chrome options options.add_argument('--disable-dev-shm-usage')" />
+    <MESSAGE value="disable chrome options and set test to fail&#10;vim /usr/bin/chrome to add options&#10;exec -a &quot;$0&quot; &quot;$HERE/chrome&quot; &quot;$@&quot; --no-sandbox --headless --disable-gpu" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/HTMLTestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg" />
+    <entry file="file://$PROJECT_DIR$/cases/test.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/log/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/mainPage_001_enter_mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#180#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+          <folding>
+            <element signature="e#158#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
