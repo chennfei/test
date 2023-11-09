@@ -21,8 +21,9 @@ class Test(unittest.TestCase):
         cur_dir = os.path.dirname(os.path.abspath(__file__))
         parent_dir = os.path.dirname(cur_dir)
 
-        self.driver = webdriver.Chrome(os.path.join(parent_dir, "common/chromedriver.exe"))  # chromedriver版本为103.114
-        self.url = "http://127.0.0.1:8080/shouan_insurance/shouan_index"
+        # 设置chromedriver位置，启动浏览器
+        self.driver = webdriver.Edge(os.path.join(parent_dir, "common/msedgedriver.exe"))  # chromedriver版本为103.114
+
         # 设置显式等待
         self.wait = WebDriverWait(self.driver, 15)
 
@@ -48,8 +49,9 @@ class Test(unittest.TestCase):
 
         # 循环打开销量前5
         for i in range(1, 6):
-            self.wait.until(
-                ec.visibility_of_element_located((By.XPATH, f'//*[@id="J_goodsList"]/ul/li[{i}]/div/div[1]')))
+            time.sleep(1)
+            # self.wait.until(
+            #     ec.visibility_of_element_located((By.XPATH, f'//*[@id="J_goodsList"]/ul/li[{i}]/div/div[1]')))
             self.driver.find_element(By.XPATH, f'//*[@id="J_goodsList"]/ul/li[{i}]/div/div[1]').click()
 
     def tearDown(self) -> None:
